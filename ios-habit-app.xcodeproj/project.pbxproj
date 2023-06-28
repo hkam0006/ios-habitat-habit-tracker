@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		94051C2A2A07B1430031776F /* SignInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94051C292A07B1430031776F /* SignInViewController.swift */; };
 		94051C2C2A07B2A40031776F /* UIViewController+DisplayMessage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94051C2B2A07B2A40031776F /* UIViewController+DisplayMessage.swift */; };
+		941331472A4C40C5009B9509 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 941331462A4C40C5009B9509 /* GoogleService-Info.plist */; };
 		9413BF1F2A2B9CA8002123C4 /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9413BF1E2A2B9CA8002123C4 /* AboutViewController.swift */; };
 		94302E262A0F77EF0002399C /* HabitDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94302E252A0F77EF0002399C /* HabitDetailsViewController.swift */; };
 		94493FE629F77D3B00F5944D /* SetRemindersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94493FE529F77D3B00F5944D /* SetRemindersViewController.swift */; };
@@ -70,6 +71,7 @@
 /* Begin PBXFileReference section */
 		94051C292A07B1430031776F /* SignInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInViewController.swift; sourceTree = "<group>"; };
 		94051C2B2A07B2A40031776F /* UIViewController+DisplayMessage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIViewController+DisplayMessage.swift"; sourceTree = "<group>"; };
+		941331462A4C40C5009B9509 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		9413BF1E2A2B9CA8002123C4 /* AboutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
 		94302E252A0F77EF0002399C /* HabitDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HabitDetailsViewController.swift; sourceTree = "<group>"; };
 		94493FE529F77D3B00F5944D /* SetRemindersViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetRemindersViewController.swift; sourceTree = "<group>"; };
@@ -198,6 +200,7 @@
 				94493FF329FCD35400F5944D /* utils */,
 				94A59B7729EEBC7F00F32FDC /* AppDelegate.swift */,
 				94A59B7929EEBC7F00F32FDC /* SceneDelegate.swift */,
+				941331462A4C40C5009B9509 /* GoogleService-Info.plist */,
 				94A59B7D29EEBC7F00F32FDC /* Main.storyboard */,
 				94A59B8029EEBC8000F32FDC /* Assets.xcassets */,
 				94A59B8229EEBC8000F32FDC /* LaunchScreen.storyboard */,
@@ -337,6 +340,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				94A59B8429EEBC8000F32FDC /* LaunchScreen.storyboard in Resources */,
+				941331472A4C40C5009B9509 /* GoogleService-Info.plist in Resources */,
 				94A59B8129EEBC8000F32FDC /* Assets.xcassets in Resources */,
 				94A59B7F29EEBC7F00F32FDC /* Main.storyboard in Resources */,
 			);
