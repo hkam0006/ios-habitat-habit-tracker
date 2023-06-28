@@ -4,7 +4,7 @@ The journey of self improvement starts here...
 ## Overview
 The Habit Tracker iOS App is a powerful tool designed to help users build and maintain positive habits. With its user-friendly interface and comprehensive features, this app aims to assist individuals in tracking their daily routines, establishing consistency, and achieving their personal goals. Whether you want to develop healthier habits, improve productivity, or enhance self-discipline, this app provides the necessary tools and insights to make positive changes in your life.
 
-## Screenshot
+## Screenshots
 <img src="https://github.com/hkam0006/ios-habitat-habit-tracker/blob/dee237a4bd22c97b640215839ad391d979bb0d48/images/dark_mode.png"  width="30%"> <img src="https://github.com/hkam0006/ios-habitat-habit-tracker/blob/dee237a4bd22c97b640215839ad391d979bb0d48/images/light_mode.png"  width="30%"> <img src="https://github.com/hkam0006/ios-habitat-habit-tracker/blob/dee237a4bd22c97b640215839ad391d979bb0d48/images/create_habit.png"  width="30%">
 
 <img src="https://github.com/hkam0006/ios-habitat-habit-tracker/blob/dee237a4bd22c97b640215839ad391d979bb0d48/images/edit_habit.png"  width="30%"> <img src="https://github.com/hkam0006/ios-habitat-habit-tracker/blob/dee237a4bd22c97b640215839ad391d979bb0d48/images/quote_page.png"  width="30%"> <img src="https://github.com/hkam0006/ios-habitat-habit-tracker/blob/dee237a4bd22c97b640215839ad391d979bb0d48/images/habit_tracking.png"  width="30%">
