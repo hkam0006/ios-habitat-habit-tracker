@@ -1,0 +1,2430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8383A2CC-21A0-4E38-8D2E-B12C56BA1337"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F3DD709-B743-4AA0-A846-65728AB500D7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/DailyRepeatViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D7DC1929-B04E-4AA0-A812-76BC303F72B1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/DailyRepeatViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F08DB27E-BFDA-41B6-94D2-1E0E5995BBA4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/RepeatProtocol.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "removeDailyTime(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "42399587-754C-4296-B809-E734E6FAD557"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/LabelViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "tableView(_:didDeselectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7DFCC912-A6E7-434C-93A3-AC4990226FD7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/LabelViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "971E2531-1749-4DA0-A610-C76BF5DF248B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/LabelViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "addLabel(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BADEB58C-5BFD-4C89-81EE-58E7CAC0905A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/MetricViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7855CAEB-D009-450A-A824-526C85532E33"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/Metric/MetricViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "viewWillDisappear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "19493A31-97C3-4CE7-9F3D-3D21E8C757C0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/Metric/MetricViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08DF626D-E359-48DE-924D-DA3541A8382A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/Metric/FrequencyMetricViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "pickerView(_:didSelectRow:inComponent:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "08DF626D-E359-48DE-924D-DA3541A8382A - b0231308697d505d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.FrequencyMetricViewController.pickerView(_: __C.UIPickerView, didSelectRow: Swift.Int, inComponent: Swift.Int) -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash%20Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/Metric/FrequencyMetricViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "08DF626D-E359-48DE-924D-DA3541A8382A - b0231308697d505d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.FrequencyMetricViewController.pickerView(_: __C.UIPickerView, didSelectRow: Swift.Int, inComponent: Swift.Int) -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash%20Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/Metric/FrequencyMetricViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "08DF626D-E359-48DE-924D-DA3541A8382A - b0231308697d505d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.FrequencyMetricViewController.pickerView(_: __C.UIPickerView, didSelectRow: Swift.Int, inComponent: Swift.Int) -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash%20Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/Metric/FrequencyMetricViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FCF8D5E1-CA60-4D5F-A8FB-8710F4BA6806"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/Metric/MetricViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE1EC822-2143-49D5-91C2-5FE2159005EC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/Metric/MetricViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "goToPage(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8BF999E7-5F47-4E5B-A169-F371E8DF748A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/Metric/MetricViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "goToPage(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2C611D4-B58B-4E29-9EC7-98AEFB7B8637"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/Label/LabelViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "tableView(_:commit:forRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DE16B548-A236-470C-B713-DC9106C6EB5A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/Label/LabelViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "tableView(_:commit:forRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0EFE7554-2E11-4400-9D08-3EDA9DC14445"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/NewHabitViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "207"
+            endingLineNumber = "207"
+            landmarkName = "updateReminderControllerDelegate()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FAB9B832-3B3C-45C2-A6E6-92CD3926E4DF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/HabitTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2"
+            endingLineNumber = "2"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3C9D68CE-B21D-4EB1-92E8-970325C8C754"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/NewHabitViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17937785-AF8A-4302-9C7D-3724F3EA66BA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/AllHabitsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "228"
+            endingLineNumber = "228"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A62D3F3E-E038-47A9-BA7C-CCB6209F84C1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/AllHabitsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "filterHabits()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37BECB19-F9FA-4B02-9C39-D1300DBC2C7F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/AllHabitsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "233"
+            endingLineNumber = "233"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "37BECB19-F9FA-4B02-9C39-D1300DBC2C7F - 38da25946bdccaaa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.AllHabitsViewController.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash%20Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/AllHabitsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "186"
+                  endingLineNumber = "186"
+                  offsetFromSymbolStart = "1488">
+               </Location>
+               <Location
+                  uuid = "37BECB19-F9FA-4B02-9C39-D1300DBC2C7F - 38da25946bdccaaa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.AllHabitsViewController.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash%20Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/AllHabitsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "186"
+                  endingLineNumber = "186"
+                  offsetFromSymbolStart = "1620">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DABC238D-8AD4-4F96-8C08-EB7094105F90"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/AllHabitsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "232"
+            endingLineNumber = "232"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "29D5E089-2546-4A31-AB66-71D231D73851"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/HabitTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "increaseProgress(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "29D5E089-2546-4A31-AB66-71D231D73851 - a7e85d7c0cdfd64d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.HabitTableViewCell.increaseProgress(Any) -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash%20Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/HabitTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "724">
+               </Location>
+               <Location
+                  uuid = "29D5E089-2546-4A31-AB66-71D231D73851 - a7e85d7c0cdfd64d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.HabitTableViewCell.increaseProgress(Any) -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash%20Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/HabitTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "860">
+               </Location>
+               <Location
+                  uuid = "29D5E089-2546-4A31-AB66-71D231D73851 - a7e85d7c0cdfd64d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.HabitTableViewCell.increaseProgress(Any) -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash%20Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/HabitTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "920">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FEE3ECFA-9880-4D2D-BB51-554355048C4F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/HabitTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "increaseProgress(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "78AAE3C7-E445-451C-B38F-9A3793423AC6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/HabitTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "setUpButtonType()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7B65016D-4546-49A5-826D-60630B28F8CB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/HabitTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "setCellDisabled()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E27A9052-CBFF-460A-9E36-6ECA924A3F26"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/HabitTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "increaseProgress(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "69C0FEFF-EEC3-4174-AC88-B4DA68652E97"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/HabitTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "setUpButtonType()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2AC73F51-94A8-48CF-94F9-09FC37D406E4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/AllHabitsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "addHabit(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "504D8341-6705-46E5-A004-0099495673F6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/HabitTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "awakeFromNib()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36A4FDC9-AEB4-4A21-8DD3-4A40F7C3D845"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/HabitTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "setCellEnabled()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "36A4FDC9-AEB4-4A21-8DD3-4A40F7C3D845 - d3ede36a38442431"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.HabitTableViewCell.setCellEnabled() -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash%20Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/HabitTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "36A4FDC9-AEB4-4A21-8DD3-4A40F7C3D845 - d3ede36a38442431"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.HabitTableViewCell.setCellEnabled() -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash%20Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/HabitTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "36A4FDC9-AEB4-4A21-8DD3-4A40F7C3D845 - d3ede36a38442431"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.HabitTableViewCell.setCellEnabled() -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash%20Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/HabitTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "196">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "03403417-9C87-48C7-9A48-10236E6DA755"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/HabitTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "increaseProgress(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48D25E68-D87D-4D6B-80F5-79D3CF4DA3CE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/HabitTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "layoutSubviews()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B8A6F88-D64E-4AD0-AFDC-68A10A8A2D37"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/AllHabitsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "147"
+            endingLineNumber = "147"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "713D5DEB-4CD8-4E2B-8AEA-D5D358BF7A97"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/AllHabitsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "137"
+            endingLineNumber = "137"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "349BBAE4-5DC5-41A6-AC1A-4F28312B78BB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/TimerViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "swiftTimerSegue(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "349BBAE4-5DC5-41A6-AC1A-4F28312B78BB - 4fad8ef5dd1fa4f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.TimerViewController.swiftTimerSegue(__C.NSCoder) -&gt; Swift.Optional&lt;__C.UIViewController&gt;"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash%20Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/TimerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "352">
+               </Location>
+               <Location
+                  uuid = "349BBAE4-5DC5-41A6-AC1A-4F28312B78BB - 4fad8ef5dd1fa4f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.TimerViewController.swiftTimerSegue(__C.NSCoder) -&gt; Swift.Optional&lt;__C.UIViewController&gt;"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash%20Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/TimerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "412">
+               </Location>
+               <Location
+                  uuid = "349BBAE4-5DC5-41A6-AC1A-4F28312B78BB - 4fad8ef5dd1fa4f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.TimerViewController.swiftTimerSegue(__C.NSCoder) -&gt; Swift.Optional&lt;__C.UIViewController&gt;"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash%20Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/TimerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "484">
+               </Location>
+               <Location
+                  uuid = "349BBAE4-5DC5-41A6-AC1A-4F28312B78BB - 4fad8ef5dd1fa4f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.TimerViewController.swiftTimerSegue(__C.NSCoder) -&gt; Swift.Optional&lt;__C.UIViewController&gt;"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash%20Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/TimerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "580">
+               </Location>
+               <Location
+                  uuid = "349BBAE4-5DC5-41A6-AC1A-4F28312B78BB - 4fad8ef5dd1fa4f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.TimerViewController.swiftTimerSegue(__C.NSCoder) -&gt; Swift.Optional&lt;__C.UIViewController&gt;"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash%20Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/TimerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "624">
+               </Location>
+               <Location
+                  uuid = "349BBAE4-5DC5-41A6-AC1A-4F28312B78BB - 4fad8ef5dd1fa4f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.TimerViewController.swiftTimerSegue(__C.NSCoder) -&gt; Swift.Optional&lt;__C.UIViewController&gt;"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash%20Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/TimerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "828">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "314E6D44-8C0F-404D-B410-27EAE5E1F27C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/Database/FirebaseController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "357"
+            endingLineNumber = "357"
+            landmarkName = "addHabit(habit:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "314E6D44-8C0F-404D-B410-27EAE5E1F27C - de3ad3c2d3ea3310"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.FirebaseController.addHabit(habit: ios_habit_app.Habit) -&gt; Swift.Optional&lt;Swift.Bool&gt;"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash%20Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/Database/FirebaseController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "314E6D44-8C0F-404D-B410-27EAE5E1F27C - de3ad3c2d3ea3310"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.FirebaseController.addHabit(habit: ios_habit_app.Habit) -&gt; Swift.Optional&lt;Swift.Bool&gt;"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash%20Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/Database/FirebaseController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "172">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D68D10FB-02EB-445C-889C-008470426489"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/Database/FirebaseController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "542"
+            endingLineNumber = "542"
+            landmarkName = "setUpHabitsListener()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9ED19A00-2A8F-4F5D-8C96-5960737BB97D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/Database/FirebaseController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "563"
+            endingLineNumber = "563"
+            landmarkName = "parseHabitsSnapshot(snapshot:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "232A7248-8F8E-4370-AF50-2AE5FC0A0452"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/Label/LabelViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "518D7F43-3119-41CD-8EC8-2BBBF4023581"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/Label/LabelViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "onLabelChange(change:labelList:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1D457617-C2A2-41F1-92E3-0DAB4724D925"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/SignUpViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "createAccount(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1D457617-C2A2-41F1-92E3-0DAB4724D925 - d44a1ea402fe70d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in ios_habit_app.SignUpViewController.createAccount(Any) -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash%20Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/SignUpViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "664">
+               </Location>
+               <Location
+                  uuid = "1D457617-C2A2-41F1-92E3-0DAB4724D925 - 680ce5580fe4bcd2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in ios_habit_app.SignUpViewController.createAccount(Any) -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash%20Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/SignUpViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "432">
+               </Location>
+               <Location
+                  uuid = "1D457617-C2A2-41F1-92E3-0DAB4724D925 - 2e0ae27d2c46865f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIAlertAction) -&gt; () in closure #1 @Sendable () async -&gt; () in ios_habit_app.SignUpViewController.createAccount(Any) -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash%20Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/SignUpViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "1D457617-C2A2-41F1-92E3-0DAB4724D925 - 680ce5580fe4bcd2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in ios_habit_app.SignUpViewController.createAccount(Any) -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash%20Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/SignUpViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "428">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "43D75E6A-6526-4CEB-A1B6-0A014393D599"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/ProfileViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F5E17B90-297C-43DB-AA99-BF786809A60C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/ProfileViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "ProfileViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EDBCDAA4-5FCD-46CD-A2E8-1D65246AD97D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/QuotePageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "getQuote()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EDBCDAA4-5FCD-46CD-A2E8-1D65246AD97D - 1d7ce7bfa24c9b4d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for ios_habit_app.QuotePageViewController.getQuote() async -&gt; Swift.Optional&lt;ios_habit_app.QuoteData&gt;"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash%20Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/QuotePageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "408">
+               </Location>
+               <Location
+                  uuid = "EDBCDAA4-5FCD-46CD-A2E8-1D65246AD97D - 1d7ce7bfa24c9b62"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for ios_habit_app.QuotePageViewController.getQuote() async -&gt; Swift.Optional&lt;ios_habit_app.QuoteData&gt;"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash%20Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/QuotePageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "408">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "26457BC1-B953-4EE2-8985-800A65B9833D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/QuotePageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "queryAPIButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "26457BC1-B953-4EE2-8985-800A65B9833D - ccb9bb38f85915ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () async -&gt; () in ios_habit_app.QuotePageViewController.queryAPIButton(Any) -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash%20Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/QuotePageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "26457BC1-B953-4EE2-8985-800A65B9833D - aaeaf7b5fc16a9c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for closure #1 @Sendable () async -&gt; () in ios_habit_app.QuotePageViewController.queryAPIButton(Any) -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash%20Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/QuotePageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "26457BC1-B953-4EE2-8985-800A65B9833D - 96dc1a50b9e74dca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) suspend resume partial function for closure #1 @Sendable () async -&gt; () in ios_habit_app.QuotePageViewController.queryAPIButton(Any) -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash%20Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/QuotePageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "26457BC1-B953-4EE2-8985-800A65B9833D - 96dc1a50b9e74dca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) suspend resume partial function for closure #1 @Sendable () async -&gt; () in ios_habit_app.QuotePageViewController.queryAPIButton(Any) -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash%20Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/QuotePageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4413BD98-400A-4C0E-A965-F4F099A9E1D5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/HabitDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C5016A9D-0BE4-470B-B040-2887F25A6C70"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/HabitDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C5016A9D-0BE4-470B-B040-2887F25A6C70 - a0f0362b9637d22e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.HabitDetailsViewController.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/HabitDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "988">
+               </Location>
+               <Location
+                  uuid = "C5016A9D-0BE4-470B-B040-2887F25A6C70 - a0f0362b9637d22e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.HabitDetailsViewController.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/HabitDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "1176">
+               </Location>
+               <Location
+                  uuid = "C5016A9D-0BE4-470B-B040-2887F25A6C70 - a0f0362b9637d22e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.HabitDetailsViewController.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/HabitDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "292">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F976D915-DA21-41C4-88FB-CE65933CCA26"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/HabitDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "07EDA0A3-33FD-4D7B-BCE5-07595DB3E921"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/Repeat/RepeatViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FEEAC3F1-1587-42CF-94F5-67D5E8018B27"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/Repeat/RepeatViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FEEAC3F1-1587-42CF-94F5-67D5E8018B27 - 1985c780dea69ace"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.RepeatViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/Repeat/RepeatViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "FEEAC3F1-1587-42CF-94F5-67D5E8018B27 - 1985c780dea69ace"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.RepeatViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/Repeat/RepeatViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "FEEAC3F1-1587-42CF-94F5-67D5E8018B27 - 1985c780dea69ace"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.RepeatViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/Repeat/RepeatViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "448">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C255539A-2435-468D-BC73-87CA180BD461"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/EditHabitViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "211"
+            endingLineNumber = "211"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C255539A-2435-468D-BC73-87CA180BD461 - 5e914bc04cf75f8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.EditHabitViewController.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/EditHabitViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "156"
+                  endingLineNumber = "156"
+                  offsetFromSymbolStart = "592">
+               </Location>
+               <Location
+                  uuid = "C255539A-2435-468D-BC73-87CA180BD461 - 5e914bc04cf75f8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.EditHabitViewController.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/EditHabitViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "156"
+                  endingLineNumber = "156"
+                  offsetFromSymbolStart = "728">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7BE5BB7E-462C-40B2-8790-1F95F3519CAC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/EditHabitViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB920F8C-E99B-4476-84B4-024E0380D3F9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/EditHabitViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6233E463-06AC-46AA-B20E-7EBACD73AD16"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/HabitDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8DECF29C-2035-4F47-B1CE-7D28CD2660C6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/HabitTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "increaseProgress(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2DB82016-7D28-4D65-B403-5FEA8ED39E14"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/EditHabitViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "saveChanges(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1289706A-8EA9-43F2-9A20-067BF0FA346E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/EditHabitViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "589F935E-4620-4A73-8C27-FCBAF0B8FA98"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/EditHabitViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "setupInitialHabitInformation()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "589F935E-4620-4A73-8C27-FCBAF0B8FA98 - 2230fa880cd7c75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.EditHabitViewController.setupInitialHabitInformation() -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/EditHabitViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "2428">
+               </Location>
+               <Location
+                  uuid = "589F935E-4620-4A73-8C27-FCBAF0B8FA98 - 2230fa880cd7c75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.EditHabitViewController.setupInitialHabitInformation() -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/EditHabitViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "2480">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1C3D1C03-DCE3-448E-BA39-A7E23A0D3010"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/NewHabitViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "149"
+            endingLineNumber = "149"
+            landmarkName = "saveChanges(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B53AA9B5-8794-475E-AC66-52EC80D104BF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/HabitDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "resetHabitProgress(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B53AA9B5-8794-475E-AC66-52EC80D104BF - d0be1ade5a8588c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.HabitDetailsViewController.resetHabitProgress(Any) -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/HabitDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "B53AA9B5-8794-475E-AC66-52EC80D104BF - d0be1ade5a8588c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.HabitDetailsViewController.resetHabitProgress(Any) -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/HabitDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "248">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B3919FF-BB69-4E8E-A4AC-8C1FB9BDB168"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/views/HealthKitViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "setupInitialHealthClassSelection()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "18DBD61F-08A8-4C49-AD79-EC1C52D3FD32"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/views/HealthKitViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "HealthKitViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "18DBD61F-08A8-4C49-AD79-EC1C52D3FD32 - c1f8c943de3f716"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.HealthKitViewController.healthCategories.getter : Swift.Array&lt;(Swift.String, Swift.String)&gt;"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/views/HealthKitViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "18DBD61F-08A8-4C49-AD79-EC1C52D3FD32 - 1e96ca8d73ca2e2f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.HealthKitViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ios_habit_app.HealthKitViewController"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/views/HealthKitViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "18DBD61F-08A8-4C49-AD79-EC1C52D3FD32 - 6fdf41ba8aaaf557"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.HealthKitViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ios_habit_app.HealthKitViewController&gt;"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/views/HealthKitViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "18DBD61F-08A8-4C49-AD79-EC1C52D3FD32 - 1e96ca8d73ca2e2f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.HealthKitViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ios_habit_app.HealthKitViewController"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/views/HealthKitViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "677E4C00-D1E5-483A-BB86-A6022FB8ED60"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/Database/FirebaseController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "327"
+            endingLineNumber = "327"
+            landmarkName = "notifyFriends(completionDate:habitName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6541DC7D-7C08-499C-8AD4-07EB35C5B7D2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/Database/FirebaseController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "517"
+            endingLineNumber = "517"
+            landmarkName = "parseFriendsSnapshot(snapshot:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "29FAE1E7-4892-474C-8896-046D7FB34C36"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/Database/FirebaseController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "sendRequest(friend:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "29FAE1E7-4892-474C-8896-046D7FB34C36 - 87ea41351ce17881"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.FirebaseController.sendRequest(friend: ios_habit_app.Friend) async -&gt; Swift.Optional&lt;Swift.Bool&gt;"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/Database/FirebaseController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "29FAE1E7-4892-474C-8896-046D7FB34C36 - b3a8886c26217f16"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for ios_habit_app.FirebaseController.sendRequest(friend: ios_habit_app.Friend) async -&gt; Swift.Optional&lt;Swift.Bool&gt;"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/Database/FirebaseController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D57983F6-0AE8-40DD-8E6F-5B8A01D5D8B5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/Database/FirebaseController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "157"
+            endingLineNumber = "157"
+            landmarkName = "sendRequest(friend:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F6E069F-E83F-443F-8E67-13B89FA4C38F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/Database/FirebaseController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "163"
+            endingLineNumber = "163"
+            landmarkName = "sendRequest(friend:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3F6E069F-E83F-443F-8E67-13B89FA4C38F - b3a8886c26216083"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for ios_habit_app.FirebaseController.sendRequest(friend: ios_habit_app.Friend) async -&gt; Swift.Optional&lt;Swift.Bool&gt;"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/Database/FirebaseController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "3096">
+               </Location>
+               <Location
+                  uuid = "3F6E069F-E83F-443F-8E67-13B89FA4C38F - c979c7b0ae2b4e80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for ios_habit_app.FirebaseController.sendRequest(friend: ios_habit_app.Friend) async -&gt; Swift.Optional&lt;Swift.Bool&gt;"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/Database/FirebaseController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "272">
+               </Location>
+               <Location
+                  uuid = "3F6E069F-E83F-443F-8E67-13B89FA4C38F - b3a8886c26216083"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for ios_habit_app.FirebaseController.sendRequest(friend: ios_habit_app.Friend) async -&gt; Swift.Optional&lt;Swift.Bool&gt;"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/Database/FirebaseController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "1972">
+               </Location>
+               <Location
+                  uuid = "3F6E069F-E83F-443F-8E67-13B89FA4C38F - 6289029b9886ac81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for ios_habit_app.FirebaseController.sendRequest(friend: ios_habit_app.Friend) async -&gt; Swift.Optional&lt;Swift.Bool&gt;"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/Database/FirebaseController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "3F6E069F-E83F-443F-8E67-13B89FA4C38F - b3a8886c26216083"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for ios_habit_app.FirebaseController.sendRequest(friend: ios_habit_app.Friend) async -&gt; Swift.Optional&lt;Swift.Bool&gt;"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/Database/FirebaseController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "1988">
+               </Location>
+               <Location
+                  uuid = "3F6E069F-E83F-443F-8E67-13B89FA4C38F - 6289029b9886ac81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for ios_habit_app.FirebaseController.sendRequest(friend: ios_habit_app.Friend) async -&gt; Swift.Optional&lt;Swift.Bool&gt;"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/Database/FirebaseController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "244">
+               </Location>
+               <Location
+                  uuid = "3F6E069F-E83F-443F-8E67-13B89FA4C38F - b3a8886c262160a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for ios_habit_app.FirebaseController.sendRequest(friend: ios_habit_app.Friend) async -&gt; Swift.Optional&lt;Swift.Bool&gt;"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/Database/FirebaseController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "1988">
+               </Location>
+               <Location
+                  uuid = "3F6E069F-E83F-443F-8E67-13B89FA4C38F - 6289029b9886aca0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for ios_habit_app.FirebaseController.sendRequest(friend: ios_habit_app.Friend) async -&gt; Swift.Optional&lt;Swift.Bool&gt;"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/Database/FirebaseController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "244">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2ED89E90-44E5-4AA8-A360-50CD7F182316"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/views/ManageFriendsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "137"
+            endingLineNumber = "137"
+            landmarkName = "acceptFriendRequest(friend:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2ED89E90-44E5-4AA8-A360-50CD7F182316 - b57ea1e78db4bd09"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) suspend resume partial function for closure #1 @Sendable () async -&gt; Swift.Optional&lt;Swift.Bool&gt; in ios_habit_app.ManageFriendsViewController.acceptFriendRequest(friend: ios_habit_app.Friend) -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/views/ManageFriendsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "2ED89E90-44E5-4AA8-A360-50CD7F182316 - aa9a1da63b9204d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.ManageFriendsViewController.acceptFriendRequest(friend: ios_habit_app.Friend) -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/views/ManageFriendsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36E0286B-9D3A-468D-8466-D971858E3DEE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/Database/FirebaseController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "153"
+            endingLineNumber = "153"
+            landmarkName = "sendRequest(friend:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "36E0286B-9D3A-468D-8466-D971858E3DEE - b3a8886c2621618b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for ios_habit_app.FirebaseController.sendRequest(friend: ios_habit_app.Friend) async -&gt; Swift.Optional&lt;Swift.Bool&gt;"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/Database/FirebaseController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "1664">
+               </Location>
+               <Location
+                  uuid = "36E0286B-9D3A-468D-8466-D971858E3DEE - b3a8886c262161aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for ios_habit_app.FirebaseController.sendRequest(friend: ios_habit_app.Friend) async -&gt; Swift.Optional&lt;Swift.Bool&gt;"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/Database/FirebaseController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "1664">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "94124E4A-AE4A-4B8D-9A9D-3DFFC527BB36"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/views/ManageFriendsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "addFriendButtonPressed(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "94124E4A-AE4A-4B8D-9A9D-3DFFC527BB36 - e8893a40eb067762"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.ManageFriendsViewController.declineFriendRequest(friend: ios_habit_app.Friend) -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/views/ManageFriendsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "344">
+               </Location>
+               <Location
+                  uuid = "94124E4A-AE4A-4B8D-9A9D-3DFFC527BB36 - 66719bf82e885d34"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (__C.UIAlertAction) -&gt; () in ios_habit_app.ManageFriendsViewController.addFriendButtonPressed(Any) -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/views/ManageFriendsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "1372">
+               </Location>
+               <Location
+                  uuid = "94124E4A-AE4A-4B8D-9A9D-3DFFC527BB36 - 66719bf82e885d34"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (__C.UIAlertAction) -&gt; () in ios_habit_app.ManageFriendsViewController.addFriendButtonPressed(Any) -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/views/ManageFriendsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "1404">
+               </Location>
+               <Location
+                  uuid = "94124E4A-AE4A-4B8D-9A9D-3DFFC527BB36 - fff2a02a33a76c7a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (__C.UIAlertAction) -&gt; () in ios_habit_app.ManageFriendsViewController.addFriendButtonPressed(Any) -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app-FINAL/ios-habit-app/ios-habit-app/views/ManageFriendsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "1372">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B586B58-1048-4E89-A289-1A2DA34461C8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/views/ManageFriendsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "addFriendButtonPressed(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8B586B58-1048-4E89-A289-1A2DA34461C8 - 66719bf82e8856e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (__C.UIAlertAction) -&gt; () in ios_habit_app.ManageFriendsViewController.addFriendButtonPressed(Any) -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/views/ManageFriendsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "736">
+               </Location>
+               <Location
+                  uuid = "8B586B58-1048-4E89-A289-1A2DA34461C8 - 66719bf82e8856e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (__C.UIAlertAction) -&gt; () in ios_habit_app.ManageFriendsViewController.addFriendButtonPressed(Any) -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/views/ManageFriendsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "860">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A1D235D7-DA8A-4759-8024-595439494211"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/views/NewHabitViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "282"
+            endingLineNumber = "282"
+            landmarkName = "NewHabitViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "915F491B-4818-423D-AA45-F83A284D6F8B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/views/ProfileViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "handleButtonVisibility()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "78828F03-C7B5-453B-946E-09AB3D9A2E5D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/views/ProfileViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
+            landmarkName = "onUserChange(change:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A23816FB-0FD1-4528-B0DE-93DA4BEF0C00"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/views/AllHabitsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "onUserChange(change:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A23816FB-0FD1-4528-B0DE-93DA4BEF0C00 - f8d37c14490cc2f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.AllHabitsViewController.onUserChange(change: ios_habit_app.DatabaseChange) -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/views/AllHabitsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "860">
+               </Location>
+               <Location
+                  uuid = "A23816FB-0FD1-4528-B0DE-93DA4BEF0C00 - f8d37c14490cc311"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.AllHabitsViewController.onUserChange(change: ios_habit_app.DatabaseChange) -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/views/AllHabitsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "A23816FB-0FD1-4528-B0DE-93DA4BEF0C00 - f8d37c14490cc336"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.AllHabitsViewController.onUserChange(change: ios_habit_app.DatabaseChange) -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/views/AllHabitsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6503E6BF-3030-434C-BCC0-7F6E195F93A2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/views/AllHabitsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
+            landmarkName = "setUpDateString()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB6DB963-254A-4F2F-81B6-2C1A8262924E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/Database/FirebaseController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "368"
+            endingLineNumber = "368"
+            landmarkName = "addHabit(habit:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BB6DB963-254A-4F2F-81B6-2C1A8262924E - d344c51269743eb0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.FirebaseController.updateHabits(habits: Swift.Array&lt;ios_habit_app.Habit&gt;) -&gt; Swift.Optional&lt;Swift.Bool&gt;"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/Database/FirebaseController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "368"
+                  endingLineNumber = "368"
+                  offsetFromSymbolStart = "208">
+               </Location>
+               <Location
+                  uuid = "BB6DB963-254A-4F2F-81B6-2C1A8262924E - c9c875d838b3a138"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.FirebaseController.addHabit(habit: ios_habit_app.Habit) -&gt; Swift.Optional&lt;Swift.Bool&gt;"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/Database/FirebaseController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "369"
+                  endingLineNumber = "369"
+                  offsetFromSymbolStart = "1104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C95B44D6-A31D-40A0-8A0B-54E2EDFBE80C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-habit-app/views/MonthlyRepeatViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "textDidChange(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C95B44D6-A31D-40A0-8A0B-54E2EDFBE80C - 979aabab2750da86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.MonthlyRepeatViewController.textDidChange(Any) -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/views/MonthlyRepeatViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1548">
+               </Location>
+               <Location
+                  uuid = "C95B44D6-A31D-40A0-8A0B-54E2EDFBE80C - 979aabab2750da86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_habit_app.MonthlyRepeatViewController.textDidChange(Any) -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/views/MonthlyRepeatViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "836">
+               </Location>
+               <Location
+                  uuid = "C95B44D6-A31D-40A0-8A0B-54E2EDFBE80C - 1eba3e137684fce9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #1 (Swift.String) -&gt; (Swift.Character) -&gt; Swift.Bool in ios_habit_app.MonthlyRepeatViewController.textDidChange(Any) -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/views/MonthlyRepeatViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "C95B44D6-A31D-40A0-8A0B-54E2EDFBE80C - ac00d7b2df89568f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #2 (Swift.Character) -&gt; Swift.Bool in implicit closure #1 (Swift.String) -&gt; (Swift.Character) -&gt; Swift.Bool in ios_habit_app.MonthlyRepeatViewController.textDidChange(Any) -&gt; ()"
+                  moduleName = "ios-habit-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonnykam/Documents/Monash_Uni/FIT3178/ios-app/ios-habit-app/ios-habit-app/views/MonthlyRepeatViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
