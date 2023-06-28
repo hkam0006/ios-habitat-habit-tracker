@@ -4,6 +4,8 @@ The journey of self improvement starts here...
 ## Overview
 The Habit Tracker iOS App is a powerful tool designed to help users build and maintain positive habits. With its user-friendly interface and comprehensive features, this app aims to assist individuals in tracking their daily routines, establishing consistency, and achieving their personal goals. Whether you want to develop healthier habits, improve productivity, or enhance self-discipline, this app provides the necessary tools and insights to make positive changes in your life.
 
+## Screenshot
+
 ## Key Features
 - **Habit Creation:** Easily create and customise your own habits.
 - **Habit Tracking:** Track habits on a daily, weekly, or monthly basis, allowing you to mark habits as completed or in progress. 
