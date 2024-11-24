@@ -4,6 +4,7 @@ The journey of self improvement starts here...
 ## Technologies Used
 - Swift
 - Firebase
+- SwiftUI
 
 ## Overview
 The Habit Tracker iOS App is a powerful tool designed to help users build and maintain positive habits. With its user-friendly interface and comprehensive features, this app aims to assist individuals in tracking their daily routines, establishing consistency, and achieving their personal goals. Whether you want to develop healthier habits, improve productivity, or enhance self-discipline, this app provides the necessary tools and insights to make positive changes in your life.
